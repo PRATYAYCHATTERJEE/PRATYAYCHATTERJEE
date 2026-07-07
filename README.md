@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**PRATYAYCHATTERJEE/PRATYAYCHATTERJEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>Building modern full-stack web applications, open-source projects, and hackathon solutions.<br><br>👯 I’m looking to collaborate on<br>Web Development, Open Source, AI-powered applications, and Hackathon projects.<br><br>🤝 I’m looking for help with<br>Backend Development, System Design, DevOps, and Cloud Deployment.<br><br>🌱 I’m currently learning<br>React.js, Node.js, Express.js, MongoDB, Java, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, Responsive Web Design, Git & GitHub, Frontend Development, and UI/UX.<br><br>⚡ Fun fact<br>I enjoy turning creative ideas into beautiful, responsive websites and love participating in hackathons! 🚀
 
 
@@ -33,4 +25,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=PRATYAYCHATTERJEE&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
